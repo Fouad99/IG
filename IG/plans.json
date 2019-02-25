@@ -1,0 +1,24 @@
+{
+  "datatalkplans":[
+
+    {"name": "Big Gig + Talk 5GB","data": 5,"incomingCalls": "unlimited","outgoingCalls": "unlimited","sms": "unlimited","mms": "unlimited", "price": 55},
+    {"name": "Big Gig + Talk 10GB","data": 10,"incomingCalls": "unlimited","outgoingCalls": "unlimited","sms": "unlimited","mms": "unlimited", "price":65},
+    {"name": "Big Gig + Talk 10GB","data": 10,"incomingCalls": "unlimited","outgoingCalls": "unlimited","sms": "unlimited","mms": "unlimited", "price":65}
+  ],
+
+
+  "dataplans":[
+    {"name": "Big Gig 10GB", "data": 10 , "incomingCalls": "unlimited", "outgoingCalls": 0.05 , "sms":"unlimited", "mms":"unlimted","price": 55  },
+    {"name": "Big Gig 15GB", "data": 15 ,"incomingCalls": "unlimited", "outgoingCalls": 0.05, "sms":"unlimited", "mms":"unlimted", "price": 75  },
+    {"name": "Big Gig 20GB", "data": 20 ,"incomingCalls": "unlimited", "outgoingCalls": 0.05, "sms":"unlimited", "mms":"unlimted", "price": 95  }
+  ],
+
+  "homeplans":[
+    {"name": "Home 250MB", "data": 0.250, "dataaway": 0.05 , "incomingCalls": "unlimited","outgoingIncluded": 100 , "outgoingCalls": 0.15, "sms":"unlimited", "mms":"unlimted","price": 20  },
+    {"name": "Home 500MB", "data": 0.500, "dataaway": 0.05 , "incomingCalls": "unlimited","outgoingIncluded": "unlimited" , "outgoingCalls": 0, "sms":"unlimited", "mms":"unlimted","price": 30  },
+    {"name": "Data Plan 1GB", "data": 1, "dataaway": "0.05/MB" , "homeIncomingCalls": "unlimited","AwayincomingCalls":0.15, "HomeOutgoingCalls": 0.05 , "AwayOutgoingCalls": 0.15, "HomeMsg":"unlimited", "AwayMsg":0.05,"price": 30},
+    {"name": "Home 2GB", "data": 2, "dataaway": "0.05/MB" , "homeIncomingCalls": "unlimited", "AwayincomingCalls":0.15, "HomeOutgoingCalls":"unlimited" , "AwayOutgoingCalls": 0.15, "HomeMsg":"unlimited", "AwayMsg":0.05,"price": 45}
+  ]
+}
+
+

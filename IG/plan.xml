@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<providers>
+    <freedom>
+        <dataTalkTextPlan>
+            <plan>
+                <name>Big Gig + Talk 5GB</name>
+                <data>5</data>
+                <incomingCalls>unlimited</incomingCalls>
+                <outgoingCalls>unlimited</outgoingCalls>
+                <sms>unlimited</sms>
+                <mms>unlimited</mms>
+                <price>55</price>
+            </plan>
+            <plan>
+                <name>Big Gig + Talk 10GB</name>
+                <data>10</data>
+                <incomingCalls>unlimited</incomingCalls>
+                <outgoingCalls>unlimited</outgoingCalls>
+                <sms>unlimited</sms>
+                <mms>unlimited</mms>
+                <price>65</price>
+            </plan>
+            <plan>
+                <name>Big Gig + Talk 15GB</name>
+                <data>15</data>
+                <incomingCalls>unlimited</incomingCalls>
+                <outgoingCalls>unlimited</outgoingCalls>
+                <sms>unlimited</sms>
+                <mms>unlimited</mms>
+                <price>85</price>
+            </plan>
+            <plan>
+                <name>Big Gig + Talk 20GB</name>
+                <data>20</data>
+                <incomingCalls>unlimited</incomingCalls>
+                <outgoingCalls>unlimited</outgoingCalls>
+                <sms>unlimited</sms>
+                <mms>unlimited</mms>
+                <price>105</price>
+            </plan>
+        </dataTalkTextPlan>
+
+        <dataPlans>
+            <plan>
+                <name>Big Gig 10GB</name>
+                <data>10</data>
+                <incomingCalls>unlimited</incomingCalls>
+                <outgoingCalls>0.05</outgoingCalls>
+                <sms>unlimited</sms>
+                <mms>unlimited</mms>
+                <price>55</price>
+            </plan>
+            <plan>
+                <name>Big Gig 15GB</name>
+                <data>15</data>
+                <incomingCalls>unlimited</incomingCalls>
+                <outgoingCalls>0.05</outgoingCalls>
+                <sms>unlimited</sms>
+                <mms>unlimited</mms>
+                <price>75</price>
+            </plan>
+            <plan>
+                <name>Big Gig 20GB</name>
+                <data>20</data>
+                <incomingCalls>unlimited</incomingCalls>
+                <outgoingCalls>0.05</outgoingCalls>
+                <sms>unlimited</sms>
+                <mms>unlimited</mms>
+                <price>95</price>
+            </plan>
+        </dataPlans>
+    </freedom>
+</providers>
